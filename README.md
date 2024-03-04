@@ -1,4 +1,4 @@
-# STEM Series: Bash Script Explanation
+# STEM Series: Shredder
 
 This script is written in `bash`, a type of shell script used to automate tasks on Unix-like operating systems.
 
